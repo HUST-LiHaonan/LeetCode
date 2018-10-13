@@ -13,7 +13,7 @@
 
 /**
  * 〈reverse-integer〉<对应第七题>
- * 〈翻转数字〉
+ * 〈〉
  *
  * @author mac
  * @create 2018/10/12
