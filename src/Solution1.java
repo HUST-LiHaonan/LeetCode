@@ -10,8 +10,8 @@
  */
 
 /**
- * 〈求取中位数〉<对应第四题>
- * 〈median-of-two-sorted-arrays〉
+ * 〈median-of-two-sorted-arrays〉<对应第四题>
+ * 〈〉
  *
  * @author mac
  * @create 2018/10/12
