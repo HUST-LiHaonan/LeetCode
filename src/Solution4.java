@@ -9,10 +9,10 @@
  * 作者姓名           修改时间           版本号              描述
  */
 
-import java.util.LinkedList;
+
 
 /**
- * 〈一句话功能简述〉<br> 
+ * 〈一句话功能简述〉<对应第七题>
  * 〈翻转数字〉
  *
  * @author mac

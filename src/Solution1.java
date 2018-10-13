@@ -10,7 +10,7 @@
  */
 
 /**
- * 〈求取中位数〉<记得类型转换 否则丢失精度>
+ * 〈求取中位数〉<对应第四题>
  * 〈median-of-two-sorted-arrays〉
  *
  * @author mac
