@@ -11,7 +11,7 @@
 
 /**
  * 〈longest-palindromic-substring〉<对应第五题>
- * 〈最长回文子序列〉
+ * 〈〉
  *
  * @author mac
  * @create 2018/10/13
