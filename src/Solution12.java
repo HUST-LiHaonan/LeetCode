@@ -36,12 +36,11 @@ public class Solution12 {
             int i = k+1;
             int j = nums.length - 1;
             while (i < j) {
-                List <Integer> l1 = new LinkedList <>();
                 if (target == (nums[i] + nums[j])) {
+                    List <Integer> l1 = new LinkedList <>();
                     l1.add(nums[k]);
                     l1.add(nums[i]);
                     l1.add(nums[j]);
-                    Collections.sort(l1);
                     S.add(l1);
                     while (i < j && nums[i] == nums[i + 1]) ++i;
                     while (i < j && nums[j] == nums[j - 1]) --j;
