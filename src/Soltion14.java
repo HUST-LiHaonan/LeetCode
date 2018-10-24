@@ -22,10 +22,10 @@ import java.util.List;
  * @since 1.0.0
  */
 public class Soltion14 {
-     char[][] lettersByDigits = new char[][]{{}, {'*'}, {'a', 'b', 'c'}, {'d', 'e', 'f'}, {'g', 'h', 'i'},
+     static char[][] lettersByDigits = new char[][]{{}, {'*'}, {'a', 'b', 'c'}, {'d', 'e', 'f'}, {'g', 'h', 'i'},
             {'j', 'k', 'l'}, {'m', 'n', 'o'}, {'p', 'q', 'r', 's'}, {'t', 'u', 'v'}, {'w', 'x', 'y', 'z'}};
 
-    public  List<String> letterCombinations(String digits) {
+    public  static List<String> letterCombinations(String digits) {
         List<String> combinations = new ArrayList<>(0);
         for (int i = digits.length() - 1; i >= 0; i--) {
             char[] letters = lettersByDigits[digits.charAt(i) - '0'];
