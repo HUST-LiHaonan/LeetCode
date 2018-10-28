@@ -1,6 +1,6 @@
 /**
  * Copyright (C), 2016-2018, 李浩楠
- * FileName: Soltion13
+ * FileName: Solution13
  * Author:   mac
  * Date:     2018/10/23 10:11 PM
  * Description: 3sum-closest
@@ -19,7 +19,7 @@ import java.util.Arrays;
  * @create 2018/10/23
  * @since 1.0.0
  */
-public class Soltion13 {
+public class Solution13 {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
         int mid,right;
