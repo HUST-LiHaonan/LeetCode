@@ -1,6 +1,6 @@
 /**
  * Copyright (C), 2016-2018, 李浩楠
- * FileName: Soltion14
+ * FileName: Solution14
  * Author:   mac
  * Date:     2018/10/24 9:42 PM
  * Description:
@@ -21,7 +21,7 @@ import java.util.List;
  * @create 2018/10/24
  * @since 1.0.0
  */
-public class Soltion14 {
+public class Solution14 {
      static char[][] lettersByDigits = new char[][]{{}, {'*'}, {'a', 'b', 'c'}, {'d', 'e', 'f'}, {'g', 'h', 'i'},
             {'j', 'k', 'l'}, {'m', 'n', 'o'}, {'p', 'q', 'r', 's'}, {'t', 'u', 'v'}, {'w', 'x', 'y', 'z'}};
 
